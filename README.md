@@ -21,7 +21,7 @@ To do so, you will build a small Aircall iOS app from scratch.
 1. Display a ****list of calls**** page
 2. Click on call from the list will redirect to ****call details**** page
 3. You should be able to ****archive a call**** from List and Details page
-  - Archived calls will no longer be visible from ****list of calls****
+    - Archived calls will no longer be visible from ****list of calls****
 
 | List of calls                 |  Call details               |
 |-------------------------      |-------------------------    |
@@ -68,9 +68,9 @@ As you can see, it's hosted on a free Heroku server, which means that the first 
 
 Webservice dates are using iso 8601 format (yyyy-MM-dd'T'HH:mm:ss.SSSZ).
 
-## Submission
+## Submission instructions
 
-When you are ready, just send us a mail.
+**Neither fork the project nor submit a pull request.** When your project is done send us a zip by mail.
 
 Don't forget to include a ****README**** file with the following:
 
@@ -79,6 +79,6 @@ Don't forget to include a ****README**** file with the following:
 - What was the most difficult part of the challenge?
 - Estimate your percentage of completion and how much time you would need to finish
 
-### Need help?
+## Need help?
 
 Don't hesitate to ask any question regarding the test at ios@aircall.io
